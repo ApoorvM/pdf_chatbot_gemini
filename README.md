@@ -1,6 +1,6 @@
 # PDF Q&A Chatbot (Google Gemini)
 
-This project is a Streamlit-based chatbot that allows you to upload a PDF and ask questions about its content using Google Gemini (grokAI) and FAISS for vector search.
+This project is a Streamlit-based chatbot that allows you to upload a PDF and ask questions about its content using Google Gemini and FAISS for vector search.
 
 ## Features
 - Upload a PDF and extract its text
@@ -15,7 +15,6 @@ This project is a Streamlit-based chatbot that allows you to upload a PDF and as
    ```sh
    pip install -r requirements.txt
    ```
-
 
 2. **Set your Google API Key:**
     - Create a file named `.env` in the project root with the following content:

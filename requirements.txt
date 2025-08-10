@@ -1,0 +1,9 @@
+streamlit
+asyncio
+PyPDF2
+langchain
+langchain-google-genai
+langchain-community
+# faiss-gpu  # Doesn't work on Macs, use faiss-cpu instead
+faiss-cpu
+python-dotenv
